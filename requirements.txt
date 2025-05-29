@@ -1,0 +1,15 @@
+streamlit
+requests
+crewai
+langchain
+langfuse
+langgraph
+pydantic
+fastapi
+uvicorn
+pdfplumber 
+pytesseract
+Pillow
+psycopg2
+easyocr
+pymango
