@@ -27,7 +27,7 @@ This service handles the upload, parsing, and storage of applicant documents suc
 
 ##  Getting Started
 
-### 1. Clone the repository
+Clone the repository and follow below steps
 ```bash
 git clone https://github.com/karishmac91/document_intake_system.git
 cd document_intake_system
